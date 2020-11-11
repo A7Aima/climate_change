@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 const openWeatherMapURL = 'http://api.openweathermap.org/data/2.5/find';
 
-const apiKey = 'd5bcb8b86658d6201e4c04ae4062d7f1';
+const apiKey = ''; // insert your api key
 
 const kTempTextStyle = TextStyle(
   fontFamily: 'Spartan MB',
